@@ -82,7 +82,7 @@
 <div>
   <p align="center">
 	<a href="https://github.com/versedll/MACspoofer">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=versedll&repo=MACspoofer&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="github-readme-stats-fast.vercel.app/api/pin/?username=versedll&repo=MACspoofer&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	
   </p>

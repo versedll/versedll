@@ -87,7 +87,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=versedll&theme=radical&row=1&column=7&margin-w=10&no-bg=true" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=versedll&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=versedll&show_icons=true&theme=radical
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 

@@ -34,9 +34,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-	> OS: <img src="https://skillicons.dev/icons?i=linux" />
-    > IDE: <img src="https://skillicons.dev/icons?i=vscode" />
-    > SKILLS: <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,nextjs,mysql,flask" /><br>
+	<img src="https://skillicons.dev/icons?i=linux" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>

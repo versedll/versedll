@@ -78,7 +78,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=versedll&layout=compact&theme=dark&langs_count=8" width="45%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=versedll&layout=donut" width="45%" />
 </div>
 
 <br>

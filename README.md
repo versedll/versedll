@@ -69,7 +69,7 @@
 
 <div align="center">
 
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=<versedll>&theme=crt" width="100%" />
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=versedll&theme=crt" width="100%" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=versedll&theme=dark" width="45%" />
 

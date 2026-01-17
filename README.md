@@ -71,14 +71,14 @@
 
   <img src="https://github-readme-stats-fast.vercel.app/api?username=versedll&show_icons=true&theme=holi" width="45%" />
 
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=versedll" width="45%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=versedll&theme=holi" width="45%" />
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=versedll&layout=donut" width="45%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=versedll&layout=donut&theme=holi" width="45%" />
 </div>
 
 <br>

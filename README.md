@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=versedll&color=blue&label=Profile+Views&base=12300)
 
 <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=008EFF&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Verse;Welcome;Inquisitive+and+Curious+by+nature;+Learning+Software+Engineering;Backend+and+Frontend+Developer;Python+and+HTML+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=008EFF&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Verse;Welcome;Inquisitive+and+Curious+by+nature;+Learning+Software+Engineering;Frontend+Developer;Python+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
   </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 <div align="center">
  
- 💸 Making money by **my own.**
+ 💸 Making money by **my own**
  
  💻 Learning **an assembly language**
 
@@ -34,8 +34,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,nextjs,mysql,flask" /><br>
+	> OS: <img src="https://skillicons.dev/icons?i=linux" />
+    > IDE: <img src="https://skillicons.dev/icons?i=vscode" />
+    > SKILLS: <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>

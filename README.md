@@ -11,10 +11,6 @@
 
 <h3 align="center">A passionate software developer from SPAIN</h3>
 
-
-
-<br/>
-
 <div align="center">
  
  💸 Making money by **my own**
@@ -57,10 +53,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <h2>ボ Snake ボ</h2>
-  <br>
+
   <img alt="Contribuitons:" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
 
 
@@ -94,5 +88,3 @@
   </p>
 </div>
 </details>
-
-</br></br>

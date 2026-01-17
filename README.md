@@ -82,9 +82,14 @@
 <div>
   <p align="center">
 	<a href="https://github.com/versedll/MACspoofer">
-      		<img src="github-readme-stats-fast.vercel.app/api/pin/?username=versedll&repo=MACspoofer&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=versedll&repo=MACSpoofer&theme=holi" alt="GitHub Stats" />
     	</a>
-	
+	<a href="https://github.com/versedll/Hotmail-Checker">
+      		<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=versedll&repo=Hotmail-Checker&theme=holi" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/versedll/Cookie-Filter">
+      		<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=versedll&repo=Cookie-Filter&theme=holi" alt="GitHub Stats" />
+    	</a>
   </p>
 </div>
 </details>

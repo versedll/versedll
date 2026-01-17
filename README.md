@@ -19,7 +19,7 @@
  
  💸 Making money by **my own**
  
- 💻 Learning **an assembly language**
+ 💻 Learning **website scrapping**
 
  </div>
 
@@ -31,24 +31,24 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<h2 align="center">が Tech Stack が</h2>
 
-<h3 align="center">💻 OS & IDE</h3>
+<h3 align="center">OS & IDE</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,windows,vscode" />
 </div>
 
-<h3 align="center">🧠 Languages</h3>
+<h3 align="center">Languages</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,nodejs" />
 </div>
 
-<h3 align="center">⚙️ Frameworks & Libraries</h3>
+<h3 align="center">Frameworks & Libraries</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,flask" />
 </div>
 
-<h3 align="center">🗄️ Databases</h3>
+<h3 align="center">Databases</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </div>

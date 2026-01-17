@@ -12,7 +12,7 @@
 <h3 align="center">A passionate software developer from SPAIN</h3>
 
 <div align="center">
- ギ Making money by **my own**
+ギ Making money by **my own**
 	
  ギ Learning **website scrapping**
  </div>

@@ -71,7 +71,7 @@
 
   <img src="https://github-readme-stats-fast.vercel.app/api?username=versedll&show_icons=true&theme=holi" width="45%" />
 
-  <img src="[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=versedll)](https://github.com/versedll/github-readme-stats)" width="45%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=versedll" width="45%" />
 
 </div>
 

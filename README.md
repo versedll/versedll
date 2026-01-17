@@ -13,7 +13,8 @@
 
 <div align="center">
 	ギ Making money by **my own**
- 	ギ Learning **website scrapping**
+	
+ ギ Learning **website scrapping**
  </div>
 
 <div align="center"> 

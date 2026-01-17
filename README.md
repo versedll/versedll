@@ -78,7 +78,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=versedll&layout=donut&theme=holi" width="45%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=versedll&hide_progress=true&theme=holi" width="45%" />
 </div>
 
 <br>

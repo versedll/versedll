@@ -69,9 +69,9 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=versedll&show_icons=true&theme=radical" width="100%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=versedll&show_icons=true&theme=holi" width="45%" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=versedll&theme=dark" width="45%" />
+  <img src="[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=versedll)](https://github.com/versedll/github-readme-stats)" width="45%" />
 
 </div>
 

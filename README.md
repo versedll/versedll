@@ -31,15 +31,28 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+
+<h3 align="center">💻 OS & IDE</h3>
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=linux" />
-    <img src="https://skillicons.dev/icons?i=vscode" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,nextjs,mysql,flask" /><br>
+  <img src="https://skillicons.dev/icons?i=linux,windows,vscode" />
 </div>
 
-<br/>
+<h3 align="center">🧠 Languages</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs" />
+</div>
+
+<h3 align="center">⚙️ Frameworks & Libraries</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,flask" />
+</div>
+
+<h3 align="center">🗄️ Databases</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">

@@ -9,12 +9,28 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/versedll" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      width="52" height="40" alt="linkedin logo" />
+  </a>
+
+  <a href="https://twitter.com/versedll" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
+      width="52" height="40" alt="twitter logo" />
+  </a>
+
+  <a href="https://discord.com/users/1160553696048975905" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
+      width="52" height="40" alt="discord logo" />
+  </a>
+
+  <a href="https://www.youtube.com/@versedll" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
+      width="52" height="40" alt="youtube logo" />
+  </a>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">A passionate software developer from SPAIN</h3>
 
 <div align="center">
@@ -23,12 +39,6 @@
 	
  ギ Learning **website scrapping**
  </div>
-
-<div align="center"> 
-  <a href="https://discord.com/users/1160553696048975905">
-    <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=purple" />
-  </a>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  

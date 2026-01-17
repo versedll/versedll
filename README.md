@@ -13,9 +13,9 @@
 
 <div align="center">
  
- 💸 Making money by **my own**
+ + Making money by **my own**
  
- 💻 Learning **website scrapping**
+ + Learning **website scrapping**
 
  </div>
 

@@ -56,7 +56,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>ボ Snake ボ</h2>
   <br>
   <img alt="Contribuitons:" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
@@ -65,30 +65,22 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center">ズ GitHub Stats ズ</h2>
 
 <div align="center">
-
   <img src="https://github-readme-stats-fast.vercel.app/api?username=versedll&show_icons=true&theme=holi" width="45%" />
-
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=versedll&theme=holi" width="45%" />
-
 </div>
 
-<br>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=versedll&theme=holi" width="45%" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=versedll&hide_progress=true&theme=holi" width="45%" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=versedll&theme=radical&row=1&column=7&margin-w=10&no-bg=true" />
-</div>
 
 
-	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 ----

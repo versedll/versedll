@@ -38,7 +38,7 @@
 ### 🎮 Discord Presence
 
 <div align="center">
-    <img src="https://lanyard.cnrad.dev/api/1160553696048975905?theme=dark&showDisplayName=true&borderRadius=10px&bg=FFFFFF&idleMessage=Hey%20I'm%20Verse)](https://discord.com/users/1160553696048975905)" alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/1160553696048975905?showDisplayName=true&theme=dark&borderRadius=10px" alt="Discord Presence" />
 </div>
 
 </td>

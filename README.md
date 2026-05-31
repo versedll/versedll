@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=versedll&color=blue&label=Profile+Views&base=12300)
 <div align="center">
-    <img src="./images/pako.png" alt="Pako Demo" width="280"/>
+    <img src="https://komarev.com/ghpvc/?username=versedll&color=blue&label=Profile+Views&base=12300" alt="VERSE" width="280"/>
 </div>
 
 <div align="center">

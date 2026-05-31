@@ -1,111 +1,81 @@
 ![](https://komarev.com/ghpvc/?username=versedll&color=blue&label=Profile+Views&base=12300)
-
-<div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=008EFF&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Verse;Welcome;Inquisitive+and+Curious+by+nature;+Learning+Software+Engineering;Frontend+Developer;Python+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
-  </div>
-
 <div align="center">
-	<img src = "https://github.com/versedll/versedll/blob/main/assets/banner.png" alt = "Profile Views"/>
+    <img src="./images/pako.png" alt="Pako Demo" width="280"/>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/versedll" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-      width="52" height="40" alt="linkedin logo" />
-  </a>
-
-  <a href="https://twitter.com/versedll" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
-      width="52" height="40" alt="twitter logo" />
-  </a>
-
-  <a href="https://discord.com/users/1160553696048975905" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
-      width="52" height="40" alt="discord logo" />
-  </a>
-
-  <a href="https://www.youtube.com/@versedll" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
-      width="52" height="40" alt="youtube logo" />
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🔥+Discord+Bot+%26+Web+Developer" alt="Typing SVG" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<h3 align="center">### A passionate software developer from SPAIN</h3>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-	
- ギ Making money by **my own**
-	
- ギ Learning **website scrapping**
- </div>
+## 🫡 About Me
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- 
-<h2 align="center">が Tech Stack が</h2>
+**Hello! I'm Verse** - A passionate **Discord Bot & Web Developer** with a love for gaming and innovative solutions
 
-<h3 align="center">OS & IDE</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,vscode" />
+- **Current Role:** CO-Founder & Lead Developer of **UHQ Stock**.
+- **Achievement:** Popular Hispanic Discord bot and **WEB** Developer.
+
 </div>
 
-<h3 align="center">Languages</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs" />
+### 💼 What I'm Working On
+
+- **[UHQ Stock Management](https://uhqstock.com)** - Accounts Services.
+- Developer of Vendetta Brawl Bot. 
+- Continuously learning new technologies
+
 </div>
 
-<h3 align="center">Frameworks & Libraries</h3>
+### 📫 Let's Connect
+
+- 💬 **Discord:** [My Profile](https://discord.com/channels/1160553696048975905)
+- 📨 **E-mail:** tabsscontact@proton.me
+
+### 🎮 Discord Presence
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,flask" />
+    <img src="https://lanyard.cnrad.dev/api/1160553696048975905?theme=dark&showDisplayName=true&idleMessage=Currently%20not%20doing%20anything...&animated=true" alt="Discord Presence" />
 </div>
 
-<h3 align="center">Databases</h3>
+</td>
+<td width="50%" valign="top">
+
+## 💻 Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+### Technologies & Tools
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</div>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">
-  <h2>ボ Snake ボ</h2>
-
-  <img alt="Contribuitons:" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="center">ズ GitHub Stats ズ</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=versedll&show_icons=true&theme=holi" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MyNameIsPako&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=versedll&theme=holi" width="45%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MyNameIsPako&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=versedll&hide_progress=true&theme=holi" width="45%" />
-</div>
-
-
-
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/versedll/MACspoofer">
-      		<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=versedll&repo=MACSpoofer&theme=holi" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/versedll/Hotmail-Checker">
-      		<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=versedll&repo=Hotmail-Checker&theme=holi" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/versedll/Cookie-Filter">
-      		<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=versedll&repo=Cookie-Filter&theme=holi" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
-</details>
+</td>
+</tr>
+</table>

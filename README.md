@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=versedll&color=blue&label=Profile+Views&base=12300)
 <div align="center">
-    <img src="./assets/banner.png" alt="VERSE" width="790"/>
+    <img src="./assets/banner.png" alt="VERSE" width="1000"/>
 </div>
 
 <div align="center">

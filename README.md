@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=versedll&color=blue&label=Profile+Views&base=12300)
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=versedll&color=blue&label=Profile+Views&base=12300" alt="VERSE" width="280"/>
+    <img src="./assets/banner.png" alt="VERSE" width="280"/>
 </div>
 
 <div align="center">
@@ -32,13 +32,13 @@
 
 ### 📫 Let's Connect
 
-- 💬 **Discord:** [My Profile](https://discord.com/channels/1160553696048975905)
+- 💬 **Discord:** [My Profile](https://discord.com/users/1160553696048975905)
 - 📨 **E-mail:** tabsscontact@proton.me
 
 ### 🎮 Discord Presence
 
 <div align="center">
-    <img src="https://lanyard.cnrad.dev/api/1160553696048975905?theme=dark&showDisplayName=true&idleMessage=Currently%20not%20doing%20anything...&animated=true" alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/1160553696048975905?theme=dark&showDisplayName=true&borderRadius=10px&bg=FFFFFF&idleMessage=Hey%20I'm%20Verse)](https://discord.com/users/1160553696048975905)" alt="Discord Presence" />
 </div>
 
 </td>
